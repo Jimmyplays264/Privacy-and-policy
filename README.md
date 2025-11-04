@@ -29,3 +29,5 @@ You may:
 - Request deletion of your data
 - Opt out of optional communications
 - Contact us with privacy concerns at Kaithorns1143@gmail.com
+
+- Please Read This Thank You
