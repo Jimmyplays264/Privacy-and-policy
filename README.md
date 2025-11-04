@@ -1,12 +1,13 @@
 Effective Date: 04/11/25
-Chimp Incorporative (“we”, “our”, or “us”) is committed to protecting your privacy. This policy explains how we collect, use, and protect your data when you play our VR game on Meta Quest.
+
+By The Meta Team Kaithorns1234
+
+Chimp Incorporative (“us”) is committed to protecting your privacy. This policy explains how we collect, use, and protect your data when you play our VR game on Meta Quest.
 
 1. Information We Collect
 When you use Chimp Incorporative on Meta Quest, we may collect:
 - Crash Reports & Diagnostics: To identify bugs and improve performance
 - Gameplay Data: Progress, achievements, and in-game actions
-- Device Info: Headset model, OS version, performance metrics
-- Optional Account Info: If you create an in-game profile (e.g. username, email)
 - Aggregated Analytics: Non-personal data to understand how players interact with the game
 We do not collect voice recordings, biometric data, or personal identifiers unless explicitly provided by you.
 
